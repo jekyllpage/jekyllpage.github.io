@@ -1,0 +1,40 @@
+### Temp files and logs
+*~
+*.pyc
+*.retry
+*.log
+
+### JetBrains template
+*.iml
+
+## Directory-based project format:
+.idea/
+
+# Gradle:
+.idea/gradle.xml
+.idea/libraries
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+
+### Jekyll
+_site
+.sass-cache
+.jekyll-metadata
+.bundle
+vendor/
+public/
+*.swp
+pkg/
+test/
+
